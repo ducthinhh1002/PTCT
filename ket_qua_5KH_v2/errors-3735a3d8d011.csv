@@ -1,0 +1,5 @@
+﻿condition,complete_retrieval,wrong,fixed_with_oracle,still_wrong
+bm25,False,9,3,6
+bm25,True,1,0,1
+graph,False,0,0,0
+graph,True,8,2,6

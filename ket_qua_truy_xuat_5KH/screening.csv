@@ -1,0 +1,11 @@
+﻿repo,candidate_files,published,included,repeated_test,test_ast_mismatch,missing_source
+climlab,98,13,7,2,4,
+fluids,105,4,3,1,,
+geopandas,87,82,61,21,,
+joblib,92,64,39,25,,
+phonopy,170,5,4,1,,
+pulp,75,5,2,3,,
+pykalman,29,8,4,4,,
+seaborn,151,66,34,32,,
+sfe,406,5,,,,5
+stellargraph,156,135,53,81,1,

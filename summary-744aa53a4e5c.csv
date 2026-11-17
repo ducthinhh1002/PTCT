@@ -1,0 +1,7 @@
+﻿condition,n,accuracy,invalid_answers,complete_retrieval
+position_front,9,0.0,0,1.0
+position_middle,9,0.0,0,1.0
+position_end,9,0.0,0,1.0
+bm25,9,0.0,0,0.1111111111111111
+graph,9,0.0,0,1.0
+oracle,9,0.0,0,1.0

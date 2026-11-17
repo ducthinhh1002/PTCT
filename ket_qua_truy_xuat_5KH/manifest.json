@@ -1,0 +1,103 @@
+{
+  "benchmark_commit": "bc69c086378d163246e7c82d85645c1699c8ba12",
+  "budgets": [
+    4096,
+    8192,
+    16384
+  ],
+  "python": "3.11.4",
+  "tokenizer": "o200k_base",
+  "tiktoken_version": "0.14.0",
+  "sources": {
+    "climlab": {
+      "repository": "climlab/climlab",
+      "revision": "da1418b2579d25547032408cb3d4a84a2dcb874b",
+      "sha256": {
+        "cases.jsonl": "41f59114bb2ce5344159b5333b6e189e845355901a131d7cf78fd926625150d1",
+        "traces.jsonl": "56fab9cf3884377ff07002c0acf578c149b88052194ab5666a45d79944ecf4d0",
+        "source.zip": "bbbacb0f3060b7d502bfd53b6a10a4da05b0103a1460496755fe7e4bf3898523"
+      }
+    },
+    "fluids": {
+      "repository": "CalebBell/fluids",
+      "revision": "61fa64d41c51721584d4eb751f087e6a8ddf3720",
+      "sha256": {
+        "cases.jsonl": "96f710476ed8ad1c84b465d70cdefc6c708df3ae1c0c4b7da36ca43403bda87e",
+        "traces.jsonl": "e73e1fc7600d53379578019ba914326ee54819f6847bc667d33f572e669abbb9",
+        "source.zip": "c364858443f4a097c99f42a059786c48b186a2e1e7b0e5f430ae51c8ae8000cb"
+      }
+    },
+    "geopandas": {
+      "repository": "geopandas/geopandas",
+      "revision": "d92ff77398e01f099534f187de62c264db41f266",
+      "sha256": {
+        "cases.jsonl": "6c2b61e43b8abed3272227e404b6b15297318c8bb074477cc00843a4af5d8934",
+        "traces.jsonl": "2909753b9e2f084b07b2add11b27a0d7705893f0f66d4a221b3c51e9b396b6d7",
+        "source.zip": "a1d0ebe54348669ac81b29f19f3b3f23b666dec51121d6370269f5dea8b036cd"
+      }
+    },
+    "joblib": {
+      "repository": "joblib/joblib",
+      "revision": "0672e76ad10e9f463221a58fb7bffa127287a4ba",
+      "sha256": {
+        "cases.jsonl": "04cc3587f64900e6d8fb490b827a012cf577943f2a570ea584390209623fbc76",
+        "traces.jsonl": "52cbf0d26975ae5d38a2fec9c2bba7105ca8302dfbef74b0c5a2b23ea0f63fb8",
+        "source.zip": "defa32603f38eb4c529f892e3b958d1b633d088a7f091d216546d4fd8621be5c"
+      }
+    },
+    "phonopy": {
+      "repository": "phonopy/phonopy",
+      "revision": "b13689331d61479accd7cbbc348b5daeeefcb2e2",
+      "sha256": {
+        "cases.jsonl": "34513c57172867908fa7b78eb8bf1fe8c7965b5f8a6beeb9b4043c3c27db5ce9",
+        "traces.jsonl": "3271232863f2c67bd9909a8ef3c609342409f6b999ee6be6471c2eb42b4a4f02",
+        "source.zip": "fe780171bbb7affea2a5bf230f0b2cc98a60146d91e4218d5abfdfe628c1b29d"
+      }
+    },
+    "pulp": {
+      "repository": "coin-or/pulp",
+      "revision": "ba4a17f0a3f29b7ea5bd02d17c1ff1f4c9466823",
+      "sha256": {
+        "cases.jsonl": "0e609547f17eff2a4c3b40f657f0e3775faf19a2934d6870c200e163d7a17862",
+        "traces.jsonl": "984748fa014590a3b27659ee7b7d38438ba349397b31446a4eea82cbc0345b27",
+        "source.zip": "8c921ed7f32262690246a8a4ee228ae0cd2107fd308aca36a287b56ab9276627"
+      }
+    },
+    "pykalman": {
+      "repository": "pykalman/pykalman",
+      "revision": "dedb0b43a392ac1bda7813f79766fd7ef8819ed9",
+      "sha256": {
+        "cases.jsonl": "e2d1cc3a5753f3f2137218a792a227f26d87d1772a46c496815841ae141e77c2",
+        "traces.jsonl": "82cf2e074420d0771c692287de24032a257b3385ea3f62681c81dcb766e787c0",
+        "source.zip": "998efef10dfc600fab3a526a4e87fea8a788acc5579c2cd5880c2cecc1ccf119"
+      }
+    },
+    "seaborn": {
+      "repository": "mwaskom/seaborn",
+      "revision": "7001ebe72423238e99c0434a2ef0a0ebc9cb55c1",
+      "sha256": {
+        "cases.jsonl": "a4247822b185776d046a09999616eaba7adc4d280a2f24c7c49bc1f6e39323b2",
+        "traces.jsonl": "ca040598dd010a3ff87de3e5b48562c970255b1736365d3d21748e0f5980b987",
+        "source.zip": "3887446d03469decc814a6511bda963e94e398eb14995c41675854cfbb385353"
+      }
+    },
+    "sfe": {
+      "repository": "sfepy/sfepy",
+      "revision": "83cdfd9302684df7a7e7bf88a2543c3731c5d8d4",
+      "sha256": {
+        "cases.jsonl": "05e2ba7c461627fd07c7c62ddddde301fa344dc304a179b35034707f58e763cd",
+        "traces.jsonl": "c5daf3f8c607cf7fd2d1f0aea41f189f63107f816ed1a663d15ea0e214a79f5c",
+        "source.zip": "c8e02c0a8fd15c6977d2710dae61f03929d505826a8757296a234621c6b141dc"
+      }
+    },
+    "stellargraph": {
+      "repository": "stellargraph/stellargraph",
+      "revision": "3c2c8c18ab4c5c16660f350d8e23d7dc39e738de",
+      "sha256": {
+        "cases.jsonl": "827e73416e9d4ba6af717ab7b4b65cb38ea9597de352e64f483ad186ee2530b9",
+        "traces.jsonl": "6134680cd75c4afb75f5546e74bbf31f619421c367dc916f95dc2f60a2240d1b",
+        "source.zip": "23cf94eca7f21749d19083e9dd21663880f8e221dd8eebee4ed519643eb07cfa"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "model": "Qwen/Qwen3-VL-8B-Instruct-FP8",
+  "url": null,
+  "system": "Evaluate Python code using only the supplied source and input.",
+  "temperature": 0,
+  "output_limit": 640,
+  "output_limit_field": "max_tokens",
+  "seed": 544014,
+  "cases_per_family": 4,
+  "tokenizer": "o200k_base",
+  "retrieval_token_cap": 300,
+  "distractor_modules": 64
+}

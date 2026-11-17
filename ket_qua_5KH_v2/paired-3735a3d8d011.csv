@@ -1,0 +1,6 @@
+﻿contrast,treatment,reference,measure,n,improved,worsened,delta,ci_low,ci_high
+RQ1 đầu − giữa,position_front,position_middle,correct,12,2,1,0.08333333333333333,-0.16666666666666666,0.3333333333333333
+RQ1 cuối − giữa,position_end,position_middle,correct,12,1,1,0.0,-0.16666666666666666,0.16666666666666666
+RQ2 độ chính xác,graph,bm25,correct,12,2,0,0.16666666666666666,0.0,0.3333333333333333
+RQ2 tìm đủ hàm,graph,bm25,complete,12,9,0,0.75,0.6666666666666666,0.9166666666666666
+Đối chứng prompt oracle,oracle,oracle_direct,correct,12,4,1,0.25,-0.08333333333333333,0.5833333333333334

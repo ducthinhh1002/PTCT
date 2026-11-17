@@ -1,0 +1,11 @@
+﻿condition,n,accuracy,route_accuracy,trace_accuracy,complete_retrieval,invalid_answers
+position_front,12,0.0,0.3333333333333333,0.0,1.0,0
+position_middle,12,0.0,0.0,0.0,1.0,0
+position_end,12,0.0,0.0,0.0,1.0,0
+bm25_canonical,12,0.0,0.0,0.0,0.25,0
+graph_canonical,12,0.0,0.08333333333333333,0.0,1.0,0
+bm25_ranked,12,0.0,0.16666666666666666,0.0,0.25,0
+graph_ranked,12,0.0,0.3333333333333333,0.0,1.0,0
+oracle,12,0.0,1.0,0.0,1.0,0
+oracle_direct,12,0.0,,,1.0,0
+arithmetic_probe,12,0.0,,,,0
